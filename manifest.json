@@ -1,5 +1,5 @@
 {
-  "description": "Clickup Ext",
+  "description": "Clickup Extension",
   "manifest_version": 2,
   "name": "clickup-ext",
   "version": "0.1.0",
